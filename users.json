@@ -1,0 +1,16 @@
+[
+    {
+        "id": "u_3d7632f2",
+        "username": "demo",
+        "password": "$2y$10$FcFH3usTyemtaRlY21kZpOZcmZxGa9wDpYLcstjk8eNEbQQoyoywm",
+        "nama": "Pengguna Demo",
+        "created": "2026-08-12T14:16:38+02:00"
+    },
+    {
+        "id": "u_9b525f02",
+        "username": "p@gmail.com",
+        "password": "$2y$10$VVFVE8xVAljC0heY1rUV8eIVNMCux7MGhJdeH8Afdse2C6bg0LQxy",
+        "nama": "kiton",
+        "created": "2026-08-12T14:16:58+02:00"
+    }
+]
